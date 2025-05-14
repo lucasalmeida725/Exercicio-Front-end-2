@@ -72,3 +72,28 @@ hr {
   border-top: 1px solid #ddd;
   margin: 0;
 }
+@media (max-width: 600px) {
+  .inicio {
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .image img {
+    width: 100%;
+    height: auto;
+  }
+
+  .nutri-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+  }
+
+  h1, h2, h3, h5 {
+    font-size: 18px;
+  }
+
+  p, li {
+    font-size: 14px;
+  }
+}
