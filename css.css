@@ -1,0 +1,74 @@
+
+    body{
+        background-color:rgb(252, 211, 218);
+    }
+.Ingre{
+    color: rgb(243, 182, 101);
+}
+.Ingre li{
+    color: black;
+}
+.Instrucao{
+     color: rgb(243, 186, 112);
+}
+.Instrucao ol{
+    color: black;
+}
+h5{
+    color: rgb(243, 186, 112);
+}
+.inicio{
+    background-color: white;
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.Prepare{
+    color: purple;
+}
+.Prepare-time{
+    border: 1px solid purple;
+    border-radius: 10px;
+    background-color: rgb(250, 218, 250);
+}
+.afastar{
+gap: 20px;
+
+}
+.Nutri {
+  max-width: 400px;
+  font-family: sans-serif;
+  color: #4a2c1a; /* marrom escuro */
+  margin: 20px;
+}
+
+.Nutri h5 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.Nutri .desc {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 16px;
+}
+
+.nutri-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  font-size: 16px;
+}
+
+.valor {
+  font-weight: bold;
+  color: #884422; /* tom marrom médio */
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 0;
+}
